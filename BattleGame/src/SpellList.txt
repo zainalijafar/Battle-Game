@@ -1,0 +1,4 @@
+Abrakadabra 10 25 0.5
+SafderSocks 5 20 0.25
+SafderCocroach 15 30 0.35
+SafderFinisher 20 35 0.80
